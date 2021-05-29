@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_gravity="center"
+    >
+
+    <TextView
+        android:id="@+id/tvActivityName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center"
+        android:layout_marginEnd="0dp"
+        android:layout_toStartOf="@+id/cbIsDone"
+        android:paddingLeft="10dp"
+        android:text="Example"
+        android:textSize="20dp" />
+    <CheckBox
+        android:id="@+id/cbIsDone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="30dp"
+        android:gravity="center"
+        android:text="Done"
+        android:textSize="20dp" />
+</RelativeLayout>

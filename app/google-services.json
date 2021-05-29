@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186812700168",
+    "project_id": "btcn2-todo-list-application",
+    "storage_bucket": "btcn2-todo-list-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186812700168:android:6b6681e85351eb744f63bd",
+        "android_client_info": {
+          "package_name": "com.example.btcanhan2_todolistapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186812700168-i44l6lqm8uqepdcmgqlr0avpu3bojq9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXhj3XLZ640sRcxnnNFQ-aMBwDMHgFvhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186812700168-i44l6lqm8uqepdcmgqlr0avpu3bojq9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

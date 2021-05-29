@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/todosFragment"
+        android:icon="@drawable/ic_baseline_home"
+        android:title="Todos" />
+    <item
+        android:id="@+id/statisticFragment"
+        android:icon="@drawable/ic_baseline_bar_chart"
+        android:title="Statistic" />
+</menu>
